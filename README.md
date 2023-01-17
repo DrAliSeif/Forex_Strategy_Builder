@@ -17,4 +17,5 @@ _______________________________
 
 Go to the [forexsb.com](https://forexsb.com/forex-strategy-builder) address and download FSB
 
+<img src="https://github.com/DrAliSeif/Forex_Strategy_Builder/blob/main/1.png" width=50% height=50%>
 
