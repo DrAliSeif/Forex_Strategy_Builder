@@ -12,10 +12,9 @@ Forex Strategy Builder
 | 4. | `Connect Broker to MT4` |
 | 5. | `Transfer symbols of broker in MT4 in to the FSB` |
 | 6. | `Transfer Datas and candels of symbols of broker in MT4 in to the FSB` |
+_______________________________
+### 1.Installation FSB(Forex Strategy Builder)
+
+Go to the [forexsb.com](https://forexsb.com/forex-strategy-builder) address and download FSB
 
 
-
-
-```ruby
-https://forexsb.com/forex-strategy-builder
-```
